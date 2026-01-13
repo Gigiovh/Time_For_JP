@@ -1,20 +1,29 @@
+# Scape room mystery
+ <img  src="https://github.com/Gigiovh/-tica-s-game/blob/main/etica-game/VILURA/img/logo.png" alt="logo" min-width="160px" max-width="160px" width="160px" align="right">
+ 
+ <p align="left"> 
+<b>Time for JP</b> é um jogo no qual o personagem JP acorda preso em sua sala de aula. 
+  Seu objetivo é escapar da instituição, desvendando mistérios e resolvendo enigmas que permitem avançar e conquistar a liberdade 
+   
+O projeto foi desenvolvido com a finalidade de estimular o raciocínio lógico do jogador por meio de desafios interativos.
+
+ 
+ </p>
+ <br>
+ 
+## Tecnologia Utilizada
 
 
-<div align="center">
-<img src="img/loguis-removebg-preview.png" alt="logo" width="200px">
-<h1 align="center"> Vilura Scape room </h1>
-
-
-<p>Este jogo tem como objetivo mostrar o conhecimento dos alunos na feira tecnológica <span style="color:#ffb301">  😉</span></p></div>
-
-<h3 style="color: #e4a002">Paleta de cores</h3>
- <img src="#" alt="paleta de cor" width="450px">
-<h3>Software Utilizado</h3>
   <a href="https://www.construct.net/en">
-    <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/logo.png " height="100px" />
+    <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/logo.png " height="80px" />
   </a>
+  
+ <br>
 
-<h2>🧑‍💻 Autores</h2>
+ ## 🤝 Colaboradores
+ 
+ Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
 <table>
   <tr>
     <td align="center">
