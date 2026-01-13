@@ -1,5 +1,5 @@
 # Scape room mystery
- <img  src="https://github.com/Gigiovh/-tica-s-game/blob/main/etica-game/VILURA/img/logo.png" alt="logo" min-width="160px" max-width="160px" width="160px" align="right">
+
  
  <p align="left"> 
 <b>Time for JP</b> é um jogo no qual o personagem JP acorda preso em sua sala de aula. 
