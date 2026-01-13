@@ -6,10 +6,7 @@
   Seu objetivo é escapar da instituição, desvendando mistérios e resolvendo enigmas que permitem avançar e conquistar a liberdade 
    
 O projeto foi desenvolvido com a finalidade de estimular o raciocínio lógico do jogador por meio de desafios interativos.
-
- 
  </p>
- <br>
  
 ## Tecnologia Utilizada
 
